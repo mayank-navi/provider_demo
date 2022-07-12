@@ -1,10 +1,10 @@
-package com.provider_info_demo_project.provider_info;
+package com.spring_demo_9hr.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProviderInfoApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
